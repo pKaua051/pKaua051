@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Pedro Kauã 
+## Oi! Eu sou o Pedro Kauã 
 <div align="center">
   <a href="https://github.com/pKaua051">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pKaua051&show_icons=true&theme=darck&include_all_commits=true&count_private=true"/>
