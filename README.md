@@ -24,4 +24,8 @@
   <a href = "mailto:kaua.bmxrace.1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-kau%C3%A3-1597b31a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  
+  
+  ![Snake animation](https://github.com/pKaua051/pKaua051/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
